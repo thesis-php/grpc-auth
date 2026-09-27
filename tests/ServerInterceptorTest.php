@@ -6,9 +6,9 @@ namespace Thesis\Grpc\Auth;
 
 use Amp\Cancellation;
 use Amp\NullCancellation;
-use Google\Rpc\Code;
 use Testo\Assert;
 use Testo\Test;
+use Thesis\Google\Rpc\Code;
 use Thesis\Grpc\InvokeError;
 use Thesis\Grpc\Metadata;
 use Thesis\Grpc\RpcType;

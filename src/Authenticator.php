@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Thesis\Grpc\Auth;
 
 use Amp\Cancellation;
-use Google\Rpc\Code;
+use Thesis\Google\Rpc\Code;
 use Thesis\Grpc\InvokeError;
 use Thesis\Grpc\Metadata;
 
